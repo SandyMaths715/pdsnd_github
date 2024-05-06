@@ -5,6 +5,14 @@ import json
 
 from input_util import get_user_input
 
+print
+# Before
+total_trips = 1000
+# After
+total_rides = 1000
+
+print ("HELLO World")
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
